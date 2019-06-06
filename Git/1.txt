@@ -1,2 +1,3 @@
 first file
 learn how to use git
+add new string (in branch br_1)
