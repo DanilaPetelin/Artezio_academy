@@ -1,3 +1,8 @@
 first file
+
 add this string after chenges in branch br_1 
 learn how to use git
+
+learn how to use git
+add new string (in branch br_1)
+
