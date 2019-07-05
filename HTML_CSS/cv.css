@@ -1,0 +1,37 @@
+*{
+      padding: 0;
+      margin:0;
+      border: none;
+      font-family: ARIAL;
+
+}
+html {background-color: GREY;}
+body {
+  background-color: WHITE;
+  margin: 0px 200px;
+  padding: 50px;
+  border-radius: 15px;
+  min-width: 800;
+  }
+header {font-size: 18px; font-weight: 700;}
+
+.my_info {
+  font-size: 18px;
+  margin: 50px;
+  line-height: 1.8;
+}
+#left_div {
+      float: left;
+      width: 60%;
+}
+
+#right_div {
+      float: left;
+      width: 40%;
+}
+
+.div_style{
+  font-size: 18;
+  padding: 15;
+  line-height: 1.5;
+}
